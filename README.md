@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine learning With Python, DSA, SQL, and AI Searching Techniques.
 - 📫 Email: pratiksuchak16@gmail.com
 - 🖇️ LinkedIn: https://www.linkedin.com/in/pratiksuchak/
+- 🧑🏻‍💻 Website: https://pratikshk16.github.io
   
 
 
